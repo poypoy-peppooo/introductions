@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>เคน</title>
+</head>
+<body bgcolor="#FADEE1">
+	<h1>SIRAPON SOMNARIN</h1>
+    <img src="C:\ken\ken.jpg"alt="MYPICTURE" style="width: 150px; height: auto;">
+  <p>
+    <a href="https://www.facebook.com/share/12CoXLa5eF9/?mibextid=LQQJ4d/" target="_blank">
+   <button>click here to visit facebook</button>
+   </a>
+  </p>
+    <p>นาย ศิลาพล โสมนรินทร์</p>
+    <p>ชื่อเล่น เคน</p>
+    <p>อายุ:19ปี</p>
+	<p>เคยศึกษาที่โรงเรียนอยุธยาวิทยาลัย</p>
+   <h2>ข้อมูลการศึกษาในปัจุบัน</h2>
+    <p>มหาวิทยาลัยเทคโนโลยีราชมงคลสุวรรณภูมิ</p>
+    <p>คณะวิทยาศาสตร์และเทคโนโลยี</p>
+    <p>สาขาวิชา:เทคโนโลยีมัลติมีเดีย</p>
+   <h3>งานอดิเรก</h3>
+    <p>วาดรูป,เล่นเกม,ฟังเพลง</p>
